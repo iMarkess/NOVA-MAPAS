@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<timecycle_modifier_data version="1.000000">
+    <modifier name="pablito_lamesa_prison_1" numMods="27" userFlags="0">
+        <light_directional_amb_col_r>0.000 1.000</light_directional_amb_col_r>
+        <light_directional_amb_col_g>0.000 1.000</light_directional_amb_col_g>
+        <light_directional_amb_col_b>0.000 1.000</light_directional_amb_col_b>
+        <light_artificial_int_down_col_r>0.918 1.000</light_artificial_int_down_col_r>
+        <light_artificial_int_down_col_g>0.816 1.000</light_artificial_int_down_col_g>
+        <light_artificial_int_down_col_b>0.502 1.000</light_artificial_int_down_col_b>
+        <light_artificial_int_down_intensity>0.700 0.000</light_artificial_int_down_intensity>
+        <light_artificial_int_up_col_r>1.000 1.000</light_artificial_int_up_col_r>
+        <light_artificial_int_up_col_g>0.800 1.000</light_artificial_int_up_col_g>
+        <light_artificial_int_up_col_b>0.471 1.000</light_artificial_int_up_col_b>
+        <light_artificial_int_up_intensity>0.700 0.000</light_artificial_int_up_intensity>
+        <ped_light_col_r>0.549 1.000</ped_light_col_r>
+        <ped_light_col_g>0.761 1.000</ped_light_col_g>
+        <ped_light_col_b>1.000 1.000</ped_light_col_b>
+        <ped_light_mult>0.200 1.000</ped_light_mult>
+        <postfx_bright_pass_thresh_width>1.000 0.000</postfx_bright_pass_thresh_width>
+        <postfx_bright_pass_thresh>0.500 0.000</postfx_bright_pass_thresh>
+        <postfx_intensity_bloom>0.300 0.000</postfx_intensity_bloom>
+        <dir_shadow_num_cascades>3.000 0.000</dir_shadow_num_cascades>
+        <fog_start>73.000 73.000</fog_start>
+        <reflection_lod_range_start>0.000 0.000</reflection_lod_range_start>
+        <reflection_lod_range_end>0.000 0.000</reflection_lod_range_end>
+        <reflection_slod_range_start>0.000 0.000</reflection_slod_range_start>
+        <reflection_slod_range_end>0.000 0.000</reflection_slod_range_end>
+        <temperature>20.000 0.000</temperature>
+        <natural_ambient_multiplier>0.300 0.000</natural_ambient_multiplier>
+        <artificial_int_ambient_multiplier>1.000 0.000</artificial_int_ambient_multiplier>
+    </modifier>
+    <modifier name="pablito_lamesa_prison_basement_1" numMods="36" userFlags="0">
+        <light_directional_amb_col_r>0.000 1.000</light_directional_amb_col_r>
+        <light_directional_amb_col_g>0.000 1.000</light_directional_amb_col_g>
+        <light_directional_amb_col_b>0.000 1.000</light_directional_amb_col_b>
+        <light_directional_amb_intensity>0.000 0.000</light_directional_amb_intensity>
+        <light_natural_amb_down_col_r>0.098 0.500</light_natural_amb_down_col_r>
+        <light_natural_amb_down_col_g>0.302 0.500</light_natural_amb_down_col_g>
+        <light_natural_amb_down_col_b>0.000 0.500</light_natural_amb_down_col_b>
+        <light_natural_amb_up_col_r>0.118 0.502</light_natural_amb_up_col_r>
+        <light_natural_amb_up_col_g>0.239 0.502</light_natural_amb_up_col_g>
+        <light_natural_amb_up_col_b>0.000 0.502</light_natural_amb_up_col_b>
+        <light_artificial_int_down_col_r>0.969 1.000</light_artificial_int_down_col_r>
+        <light_artificial_int_down_col_g>0.969 1.000</light_artificial_int_down_col_g>
+        <light_artificial_int_down_col_b>0.918 1.000</light_artificial_int_down_col_b>
+        <light_artificial_int_down_intensity>0.100 0.000</light_artificial_int_down_intensity>
+        <light_artificial_int_up_col_r>1.000 1.000</light_artificial_int_up_col_r>
+        <light_artificial_int_up_col_g>0.902 1.000</light_artificial_int_up_col_g>
+        <light_artificial_int_up_col_b>0.682 1.000</light_artificial_int_up_col_b>
+        <light_artificial_int_up_intensity>0.100 0.000</light_artificial_int_up_intensity>
+        <ped_light_col_r>0.290 1.000</ped_light_col_r>
+        <ped_light_col_g>0.267 1.000</ped_light_col_g>
+        <ped_light_col_b>0.208 1.000</ped_light_col_b>
+        <ped_light_mult>0.250 1.000</ped_light_mult>
+        <ssao_inten>2.400 0.000</ssao_inten>
+        <postfx_exposure_max>1.300 0.000</postfx_exposure_max>
+        <postfx_bright_pass_thresh_width>0.700 0.000</postfx_bright_pass_thresh_width>
+        <postfx_bright_pass_thresh>0.700 0.000</postfx_bright_pass_thresh>
+        <postfx_intensity_bloom>0.350 0.000</postfx_intensity_bloom>
+        <fog_start>73.000 73.000</fog_start>
+        <reflection_tweak_interior_amb>10.880 0.000</reflection_tweak_interior_amb>
+        <reflection_tweak_exterior_amb>11.392 0.000</reflection_tweak_exterior_amb>
+        <reflection_tweak_emissive>12.000 0.000</reflection_tweak_emissive>
+        <reflection_hdr_mult>0.100 0.000</reflection_hdr_mult>
+        <temperature>20.000 0.000</temperature>
+        <natural_ambient_multiplier>0.000 0.000</natural_ambient_multiplier>
+        <artificial_int_ambient_multiplier>1.000 0.000</artificial_int_ambient_multiplier>
+    </modifier>
+    <modifier name="pablito_lamesa_prison_et_1" numMods="35" userFlags="0">
+        <light_directional_amb_col_r>0.000 1.000</light_directional_amb_col_r>
+        <light_directional_amb_col_g>0.000 1.000</light_directional_amb_col_g>
+        <light_directional_amb_col_b>0.000 1.000</light_directional_amb_col_b>
+        <light_directional_amb_intensity>0.000 0.000</light_directional_amb_intensity>
+        <light_natural_amb_down_col_r>0.098 0.500</light_natural_amb_down_col_r>
+        <light_natural_amb_down_col_g>0.302 0.500</light_natural_amb_down_col_g>
+        <light_natural_amb_down_col_b>0.000 0.500</light_natural_amb_down_col_b>
+        <light_natural_amb_up_col_r>0.118 0.502</light_natural_amb_up_col_r>
+        <light_natural_amb_up_col_g>0.239 0.502</light_natural_amb_up_col_g>
+        <light_natural_amb_up_col_b>0.000 0.502</light_natural_amb_up_col_b>
+        <light_artificial_int_down_col_r>0.969 1.000</light_artificial_int_down_col_r>
+        <light_artificial_int_down_col_g>0.969 1.000</light_artificial_int_down_col_g>
+        <light_artificial_int_down_col_b>0.918 1.000</light_artificial_int_down_col_b>
+        <light_artificial_int_down_intensity>0.100 0.000</light_artificial_int_down_intensity>
+        <light_artificial_int_up_col_r>1.000 1.000</light_artificial_int_up_col_r>
+        <light_artificial_int_up_col_g>0.902 1.000</light_artificial_int_up_col_g>
+        <light_artificial_int_up_col_b>0.682 1.000</light_artificial_int_up_col_b>
+        <light_artificial_int_up_intensity>0.100 0.000</light_artificial_int_up_intensity>
+        <ped_light_col_r>0.000 1.000</ped_light_col_r>
+        <ped_light_col_g>0.000 1.000</ped_light_col_g>
+        <ped_light_col_b>0.000 1.000</ped_light_col_b>
+        <ped_light_mult>1.000 1.000</ped_light_mult>
+        <ssao_inten>2.400 0.000</ssao_inten>
+        <postfx_exposure_max>1.000 0.000</postfx_exposure_max>
+        <postfx_bright_pass_thresh_width>0.700 0.000</postfx_bright_pass_thresh_width>
+        <postfx_bright_pass_thresh>0.700 0.000</postfx_bright_pass_thresh>
+        <postfx_intensity_bloom>0.350 0.000</postfx_intensity_bloom>
+        <fog_start>150.000 150.000</fog_start>
+        <reflection_tweak_interior_amb>10.880 0.000</reflection_tweak_interior_amb>
+        <reflection_tweak_exterior_amb>11.392 0.000</reflection_tweak_exterior_amb>
+        <reflection_tweak_emissive>12.000 0.000</reflection_tweak_emissive>
+        <reflection_hdr_mult>0.100 0.000</reflection_hdr_mult>
+        <temperature>20.000 0.000</temperature>
+        <natural_ambient_multiplier>0.000 0.000</natural_ambient_multiplier>
+        <artificial_int_ambient_multiplier>0.500 0.000</artificial_int_ambient_multiplier>
+    </modifier>
+</timecycle_modifier_data>
+
